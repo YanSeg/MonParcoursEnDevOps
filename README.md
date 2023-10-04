@@ -2,6 +2,9 @@
 Premier pas dev au sein de la formation DevOps du campus Numérique In the Alps.
 
 
+Repository GitHub :
+https://github.com/YanSeg/MonParcoursEnDevOps.git
+
 #Gestionnaire de Produits (Laravel)
 Un gestionnaire de produits simple basé sur Laravel, permettant de gérer des produits, leur ajout, leur édition et leur suppression. L'authentification est gérée avec Laravel Breeze. Ce projet est une ébauche et peut être étendu pour des fonctionnalités plus avancées.
 
@@ -13,7 +16,6 @@ Une application Vue.js qui utilise une API de météo pour afficher les prévisi
 #Carte des Fournisseurs (Vue.js)
 Une application Vue.js qui utilise une API REST pour afficher les fournisseurs sur une carte interactive. Utilise la bibliothèque Leaflet pour la cartographie.
 
-Repository GitHub | Démo en ligne (le cas échéant)
 
 #Jeu D&D (Java)
 Un jeu Java simple en cours de développement. Il s'agit d'une ébauche et peut être étendu avec de nouvelles fonctionnalités et des graphiques améliorés. 
