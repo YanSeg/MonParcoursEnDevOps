@@ -1,6 +1,5 @@
 # MonParcoursEnDevOps
-Premier pas dev au sein de la formation DevOps du campus Numérique In the Alps.
-
+Premiers projets dans la formation DevOps au sein du campus Numérique In the Alps.
 
 Repository GitHub :
 https://github.com/YanSeg/MonParcoursEnDevOps.git
